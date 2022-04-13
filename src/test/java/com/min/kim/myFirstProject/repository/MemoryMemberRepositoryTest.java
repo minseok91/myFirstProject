@@ -20,7 +20,7 @@ public class MemoryMemberRepositoryTest {
     public void afterEach() {
         repository.clearStore();
     }
-    //주석추가
+    // 주석추가
 
     @Test
     public void save() {
