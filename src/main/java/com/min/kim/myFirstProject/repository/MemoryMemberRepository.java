@@ -1,6 +1,7 @@
 package com.min.kim.myFirstProject.repository;
 
 import com.min.kim.myFirstProject.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
